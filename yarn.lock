@@ -3709,7 +3709,7 @@ __metadata:
     chalk: ^4.1.1
     cross-env: ^7.0.3
     debug: ^4.3.1
-    dompurify: ^2.2.8
+    dompurify: ^2.5.4
     dotenv: ^10.0.0
     electron: 18.3.7
     electron-builder: ^22.11.1
@@ -4985,10 +4985,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^2.2.8":
-  version: 2.4.3
-  resolution: "dompurify@npm:2.4.3"
-  checksum: b440981f2a38cada2085759cc3d1e2f94571afc34343d011a8a6aa1ad91ae6abf651adbfa4994b0e2283f0ce81f7891cdb04b67d0b234c8d190cb70e9691f026
+"dompurify@npm:^2.5.4":
+  version: 2.5.8
+  resolution: "dompurify@npm:2.5.8"
+  checksum: 8d7acd42bfc75d3dd9030d61201e346fffc4fd5f62e491a446564f0d5e0ffc1635712ccf7781302b00c4fefe412a030b5434c9e803605d81343e923b088cde7e
   languageName: node
   linkType: hard
 
