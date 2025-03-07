@@ -3373,6 +3373,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"axios@npm:^1.8.2":
+  version: 1.8.2
+  resolution: "axios@npm:1.8.2"
+  dependencies:
+    follow-redirects: ^1.15.6
+    form-data: ^4.0.0
+    proxy-from-env: ^1.1.0
+  checksum: c47a43b79a058aa9e53a65bec9ade35c9f6e76a3999c795a79a2d205fb5f803fd4245497a0209a9727cbbe4f558791dd852ad2c168c5fc030259c11598ed8fd7
+  languageName: node
+  linkType: hard
+
 "babel-helper-vue-jsx-merge-props@npm:^2.0.0":
   version: 2.0.3
   resolution: "babel-helper-vue-jsx-merge-props@npm:2.0.3"
@@ -4017,7 +4028,7 @@ __metadata:
     "@sentry/electron": ^2.4.1
     "@sentry/integrations": ^6.5.0
     "@sentry/webpack-plugin": ^1.15.1
-    axios: ^0.21.1
+    axios: ^1.8.2
     chalk: ^4.1.1
     cross-env: ^7.0.3
     debug: ^4.3.1
@@ -6353,6 +6364,16 @@ __metadata:
     debug:
       optional: true
   checksum: eaec81c3e0ae57aae2422e38ad3539d0e7279b3a63f9681eeea319bb683dea67502c4e097136b8ce9721542b4e236e092b6b49e34e326cdd7733c274f0a3f378
+  languageName: node
+  linkType: hard
+
+"follow-redirects@npm:^1.15.6":
+  version: 1.15.9
+  resolution: "follow-redirects@npm:1.15.9"
+  peerDependenciesMeta:
+    debug:
+      optional: true
+  checksum: 859e2bacc7a54506f2bf9aacb10d165df78c8c1b0ceb8023f966621b233717dab56e8d08baadc3ad3b9db58af290413d585c999694b7c146aaf2616340c3d2a6
   languageName: node
   linkType: hard
 
